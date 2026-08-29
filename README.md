@@ -4,6 +4,8 @@
 
 This project showcases an interactive **Netflix Analytics Dashboard** built using Tableau to analyze the content available on Netflix, including **Movies and TV Shows**. The dashboard provides insights into content distribution, genres, ratings, release trends, countries, and other key attributes to understand Netflix's content library and viewing trends.
 
+<img width="1351" height="692" alt="Screenshot 2026-08-29 151810" src="https://github.com/user-attachments/assets/a52e2444-ce11-42a1-a191-c1120ae5b106" />
+
 
 
 
@@ -51,11 +53,6 @@ The dashboard provides a high-level overview of Netflix's content library and al
 ✔ Top genres across Movies and TV Shows
 ✔ Interactive filters for detailed content exploration
 
-
-## 6. Dashboard Preview
-
-![Netflix Analytics Dashboard](ADD_YOUR_
-IMAGE_LINK_HERE)
 
 ## 7. Key Insights
 
